@@ -1,8 +1,0 @@
-{
-    "parent": "workshop_for_handsome_adventurer:block/mini_rack",
-    "textures": 
-	{
-        "plank": "minecraft:block/birch_planks",
-        "thingy": "minecraft:block/white_terracotta"
-    }
-}

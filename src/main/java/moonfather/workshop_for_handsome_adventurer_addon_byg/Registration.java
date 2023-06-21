@@ -17,8 +17,12 @@ import java.util.List;
 
 public class Registration {
     ////////////////////////////////////////////////////////////////////////////////////////
-    public static final String[] woodTypes = { "redwood", "skyris", "willow", "witch_hazel", "zelkova", "sythian", "embur" };
-    ///// you should only change the line above. rest is paste-it-and-leave it. //////////
+    public static final String[] woodTypes = { "aspen", "baobab", "cherry", "cika", "cypress",  //cherry can stay in 1.20 as far as i care
+            "ebony", "ether", "fir", "holly",
+            "jacaranda", "lament", "mahogany", "mangrove", //last one only in 1.18
+            "maple", "nightshade", "palm", "pine", "rainbow_eucalyptus",
+            "redwood", "skyris", "willow", "witch_hazel", "zelkova", "sythian", "embur" };
+    ///// you should only change the array above. rest is paste-it-and-leave it. //////////
     //////////////////////////////////////////////////////////////////////////////////////
 
     private static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, Constants.MODID);

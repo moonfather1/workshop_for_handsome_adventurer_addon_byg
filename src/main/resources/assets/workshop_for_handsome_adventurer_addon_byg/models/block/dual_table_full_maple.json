@@ -1,0 +1,11 @@
+{
+    "parent": "workshop_for_handsome_adventurer:block/dual_table_full",
+    "textures": {
+        "particle": "byg:block/stripped_maple_log",
+        "stripped_oak_log": "byg:block/stripped_maple_log",
+        "oak_planks": "byg:block/maple_planks",
+        "crafting_table_top": "minecraft:block/crafting_table_top",
+        "stripped_dark_oak_log": "minecraft:block/stripped_dark_oak_log",
+        "anvil": "minecraft:block/anvil"
+    }
+}

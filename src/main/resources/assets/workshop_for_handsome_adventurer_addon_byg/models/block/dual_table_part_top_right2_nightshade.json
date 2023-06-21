@@ -1,0 +1,8 @@
+{
+    "parent": "workshop_for_handsome_adventurer:block/dual_table_part_top_right2",
+    "textures": {
+        "particle": "byg:block/stripped_nightshade_log",
+        "stripped_dark_oak_log": "minecraft:block/stripped_spruce_log",
+        "oak_planks": "byg:block/nightshade_planks"
+    }
+}

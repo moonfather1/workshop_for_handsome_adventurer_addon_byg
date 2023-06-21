@@ -1,0 +1,9 @@
+{
+    "parent": "workshop_for_handsome_adventurer:block/mini_rack",
+    "textures": 
+	{
+        "particle": "byg:block/palm_planks",
+        "plank": "byg:block/palm_planks",
+        "thingy": "minecraft:block/white_terracotta"
+    }
+}

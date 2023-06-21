@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "",
+  "pattern": [
+    "f"
+  ],
+  "key": {
+    "f": {
+      "item": "workshop_for_handsome_adventurer_addon_byg:tool_rack_framed_maple"
+    }
+  },
+  "result": {
+    "item": "workshop_for_handsome_adventurer_addon_byg:tool_rack_pframed_maple",
+    "count": 1
+  },
+  "conditions":  []
+}

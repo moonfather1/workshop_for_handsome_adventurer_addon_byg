@@ -1,0 +1,9 @@
+{
+    "parent": "workshop_for_handsome_adventurer:block/framed_rack_hollow_inventory",
+    "textures": 
+	{
+        "plank": "byg:block/lament_planks",
+        "stripped_log": "byg:block/stripped_lament_log",
+        "thingy": "minecraft:block/white_terracotta"
+    }
+}

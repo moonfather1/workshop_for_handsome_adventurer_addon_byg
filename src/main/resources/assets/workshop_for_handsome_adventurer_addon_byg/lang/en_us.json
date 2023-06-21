@@ -60,5 +60,176 @@
 	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_embur": "Tool Rack (embur, framed)",
 	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_embur": "Tool Rack (embur, partly framed)",
 	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_embur": "Tool Rack (embur, single)",
-	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_embur": "Potion Shelf (embur)"
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_embur": "Potion Shelf (embur)",
+
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_maple": "Workstation (maple)",
+
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_maple": "Crafting Table (maple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_maple": "Tool Rack (maple, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_maple": "Tool Rack (maple, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_maple": "Tool Rack (maple, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_maple": "Tool Rack (maple, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_maple": "Potion Shelf (maple)",
+
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_nightshade": "Workstation (nightshade)",
+
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_nightshade": "Crafting Table (nightshade)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_nightshade": "Tool Rack (nightshade, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_nightshade": "Tool Rack (nightshade, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_nightshade": "Tool Rack (nightshade, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_nightshade": "Tool Rack (nightshade, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_nightshade": "Potion Shelf (nightshade)",
+
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_palm": "Workstation (palm)",
+
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_palm": "Crafting Table (palm)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_palm": "Tool Rack (palm, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_palm": "Tool Rack (palm, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_palm": "Tool Rack (palm, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_palm": "Tool Rack (palm, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_palm": "Potion Shelf (palm)",
+
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_pine": "Workstation (pine)",
+
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_pine": "Crafting Table (pine)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_pine": "Tool Rack (pine, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_pine": "Tool Rack (pine, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_pine": "Tool Rack (pine, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_pine": "Tool Rack (pine, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_pine": "Potion Shelf (pine)",
+
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_rainbow_eucalyptus": "Workstation (rainbow eucalyptus)",
+
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_rainbow_eucalyptus": "Crafting Table (rainbow eucalyptus)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_rainbow_eucalyptus": "Tool Rack (rainbow eucalyptus, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_rainbow_eucalyptus": "Tool Rack (rainbow eucalyptus, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_rainbow_eucalyptus": "Tool Rack (rainbow eucalyptus, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_rainbow_eucalyptus": "Tool Rack (rainbow eucalyptus, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_rainbow_eucalyptus": "Potion Shelf (rainbow eucalyptus)",
+
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_imparius": "Workstation (imparius)",
+
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_imparius": "Crafting Table (imparius)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_imparius": "Tool Rack (imparius, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_imparius": "Tool Rack (imparius, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_imparius": "Tool Rack (imparius, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_imparius": "Tool Rack (imparius, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_imparius": "Potion Shelf (imparius)",
+
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_jacaranda": "Workstation (jacaranda)",
+
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_jacaranda": "Crafting Table (jacaranda)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_jacaranda": "Tool Rack (jacaranda, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_jacaranda": "Tool Rack (jacaranda, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_jacaranda": "Tool Rack (jacaranda, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_jacaranda": "Tool Rack (jacaranda, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_jacaranda": "Potion Shelf (jacaranda)",
+
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_lament": "Workstation (lament)",
+
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_lament": "Crafting Table (lament)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_lament": "Tool Rack (lament, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_lament": "Tool Rack (lament, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_lament": "Tool Rack (lament, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_lament": "Tool Rack (lament, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_lament": "Potion Shelf (lament)",
+
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_mahogany": "Workstation (mahogany)",
+
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_mahogany": "Crafting Table (mahogany)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_mahogany": "Tool Rack (mahogany, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_mahogany": "Tool Rack (mahogany, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_mahogany": "Tool Rack (mahogany, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_mahogany": "Tool Rack (mahogany, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_mahogany": "Potion Shelf (mahogany)",
+
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_mangrove": "Workstation (mangrove)",
+
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_mangrove": "Crafting Table (mangrove)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_mangrove": "Tool Rack (mangrove, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_mangrove": "Tool Rack (mangrove, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_mangrove": "Tool Rack (mangrove, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_mangrove": "Tool Rack (mangrove, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_mangrove": "Potion Shelf (mangrove)",
+
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_ebony": "Workstation (ebony)",
+
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_ebony": "Crafting Table (ebony)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_ebony": "Tool Rack (ebony, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_ebony": "Tool Rack (ebony, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_ebony": "Tool Rack (ebony, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_ebony": "Tool Rack (ebony, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_ebony": "Potion Shelf (ebony)",
+
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_ether": "Workstation (ether)",
+
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_ether": "Crafting Table (ether)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_ether": "Tool Rack (ether, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_ether": "Tool Rack (ether, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_ether": "Tool Rack (ether, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_ether": "Tool Rack (ether, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_ether": "Potion Shelf (ether)",
+
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_fir": "Workstation (fir)",
+
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_fir": "Crafting Table (fir)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_fir": "Tool Rack (fir, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_fir": "Tool Rack (fir, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_fir": "Tool Rack (fir, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_fir": "Tool Rack (fir, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_fir": "Potion Shelf (fir)",
+
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_holly": "Workstation (holly)",
+
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_holly": "Crafting Table (holly)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_holly": "Tool Rack (holly, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_holly": "Tool Rack (holly, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_holly": "Tool Rack (holly, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_holly": "Tool Rack (holly, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_holly": "Potion Shelf (holly)",
+
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_aspen": "Workstation (aspen)",
+
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_aspen": "Crafting Table (aspen)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_aspen": "Tool Rack (aspen, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_aspen": "Tool Rack (aspen, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_aspen": "Tool Rack (aspen, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_aspen": "Tool Rack (aspen, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_aspen": "Potion Shelf (aspen)",
+
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_baobab": "Workstation (baobab)",
+
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_baobab": "Crafting Table (baobab)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_baobab": "Tool Rack (baobab, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_baobab": "Tool Rack (baobab, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_baobab": "Tool Rack (baobab, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_baobab": "Tool Rack (baobab, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_baobab": "Potion Shelf (baobab)",
+
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_cherry": "Workstation (cherry)",
+
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_cherry": "Crafting Table (cherry)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_cherry": "Tool Rack (cherry, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_cherry": "Tool Rack (cherry, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_cherry": "Tool Rack (cherry, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_cherry": "Tool Rack (cherry, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_cherry": "Potion Shelf (cherry)",
+
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_cika": "Workstation (cika)",
+
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_cika": "Crafting Table (cika)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_cika": "Tool Rack (cika, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_cika": "Tool Rack (cika, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_cika": "Tool Rack (cika, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_cika": "Tool Rack (cika, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_cika": "Potion Shelf (cika)",
+
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_cypress": "Workstation (cypress)",
+
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_cypress": "Crafting Table (cypress)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_cypress": "Tool Rack (cypress, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_cypress": "Tool Rack (cypress, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_cypress": "Tool Rack (cypress, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_cypress": "Tool Rack (cypress, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_cypress": "Potion Shelf (cypress)"
 }

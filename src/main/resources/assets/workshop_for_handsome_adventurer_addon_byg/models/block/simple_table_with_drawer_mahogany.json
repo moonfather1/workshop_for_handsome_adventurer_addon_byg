@@ -1,0 +1,8 @@
+{
+    "parent": "workshop_for_handsome_adventurer:block/simple_table_with_drawer",
+    "textures": {
+        "particle": "byg:block/mahogany_planks",
+        "oak_planks": "byg:block/mahogany_planks",
+        "stripped_oak_log": "byg:block/stripped_mahogany_log"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "variants":
+    {
+        "facing=north,half=upper": { "model": "workshop_for_handsome_adventurer_addon_byg:block/dual_rack_top_cypress" },
+        "facing=east,half=upper": { "model": "workshop_for_handsome_adventurer_addon_byg:block/dual_rack_top_cypress", "y": 90 },
+        "facing=south,half=upper": { "model": "workshop_for_handsome_adventurer_addon_byg:block/dual_rack_top_cypress", "y": 180 },
+        "facing=west,half=upper": { "model": "workshop_for_handsome_adventurer_addon_byg:block/dual_rack_top_cypress", "y": 270 },
+        "facing=north,half=lower": { "model": "workshop_for_handsome_adventurer_addon_byg:block/dual_rack_bottom_cypress" },
+        "facing=east,half=lower": { "model": "workshop_for_handsome_adventurer_addon_byg:block/dual_rack_bottom_cypress", "y": 90 },
+        "facing=south,half=lower": { "model": "workshop_for_handsome_adventurer_addon_byg:block/dual_rack_bottom_cypress", "y": 180 },
+        "facing=west,half=lower": { "model": "workshop_for_handsome_adventurer_addon_byg:block/dual_rack_bottom_cypress", "y": 270 }
+    }
+}

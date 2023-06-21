@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "workshop_for_handsome_adventurer_addon_byg:tool_rack_framed_maple",
+              "properties": { "half": "upper" }
+            },
+            { "condition": "minecraft:survives_explosion" }
+          ],
+          "name": "workshop_for_handsome_adventurer_addon_byg:tool_rack_framed_maple"
+        }
+      ]
+    }
+  ],
+  "functions": [ { "function": "minecraft:explosion_decay" } ]
+}

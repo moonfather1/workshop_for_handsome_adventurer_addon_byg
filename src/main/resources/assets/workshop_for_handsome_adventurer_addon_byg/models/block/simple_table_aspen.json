@@ -1,0 +1,8 @@
+{
+    "parent": "workshop_for_handsome_adventurer:block/simple_table",
+    "textures": {
+        "particle": "byg:block/aspen_planks",
+        "oak_planks": "byg:block/aspen_planks",
+        "stripped_oak_log": "byg:block/stripped_aspen_log"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "variants":
+    {
+        "facing=north,half=upper": { "model": "workshop_for_handsome_adventurer_addon_byg:block/framed_rack_hollow_top_rainbow_eucalyptus" },
+        "facing=east,half=upper": { "model": "workshop_for_handsome_adventurer_addon_byg:block/framed_rack_hollow_top_rainbow_eucalyptus", "y": 90 },
+        "facing=south,half=upper": { "model": "workshop_for_handsome_adventurer_addon_byg:block/framed_rack_hollow_top_rainbow_eucalyptus", "y": 180 },
+        "facing=west,half=upper": { "model": "workshop_for_handsome_adventurer_addon_byg:block/framed_rack_hollow_top_rainbow_eucalyptus", "y": 270 },
+        "facing=north,half=lower": { "model": "workshop_for_handsome_adventurer_addon_byg:block/framed_rack_hollow_bottom_rainbow_eucalyptus" },
+        "facing=east,half=lower": { "model": "workshop_for_handsome_adventurer_addon_byg:block/framed_rack_hollow_bottom_rainbow_eucalyptus", "y": 90 },
+        "facing=south,half=lower": { "model": "workshop_for_handsome_adventurer_addon_byg:block/framed_rack_hollow_bottom_rainbow_eucalyptus", "y": 180 },
+        "facing=west,half=lower": { "model": "workshop_for_handsome_adventurer_addon_byg:block/framed_rack_hollow_bottom_rainbow_eucalyptus", "y": 270 }
+    }
+}
