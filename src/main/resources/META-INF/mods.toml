@@ -1,0 +1,37 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+
+[[mods]]
+modId="workshop_for_handsome_adventurer_addon_byg"
+version="${file.jarVersion}" #mandatory
+ displayName="Workshop for handsome adventurer - BYG addon"
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
+authors="MoonFather"
+description='''
+This addon adds wood from "Oh the Biomes You'll Go" for Workshop for handsome adventurer mod.
+'''
+[[dependencies.workshop_for_handsome_adventurer_addon_byg]]
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[40,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.workshop_for_handsome_adventurer_addon_byg]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.workshop_for_handsome_adventurer_addon_byg]]
+    modId="workshop_for_handsome_adventurer"
+    mandatory=true
+    versionRange="[1.00,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.workshop_for_handsome_adventurer_addon_byg]]
+    modId="byg"
+    mandatory=true
+    versionRange="[1.4,)"
+    ordering="AFTER"
+    side="BOTH"

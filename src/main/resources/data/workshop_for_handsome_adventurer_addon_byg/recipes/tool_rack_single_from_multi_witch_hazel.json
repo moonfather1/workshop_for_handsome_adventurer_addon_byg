@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "",
+  "pattern": [
+    "m"
+  ],
+  "key": {
+    "m": {
+      "item": "workshop_for_handsome_adventurer_addon_byg:tool_rack_double_witch_hazel"
+    }
+  },
+  "result": {
+    "item": "workshop_for_handsome_adventurer_addon_byg:tool_rack_single_witch_hazel",
+    "count": 3
+  },
+  "conditions":  []
+}

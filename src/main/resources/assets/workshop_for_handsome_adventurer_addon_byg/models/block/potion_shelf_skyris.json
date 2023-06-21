@@ -1,0 +1,7 @@
+{
+    "parent": "workshop_for_handsome_adventurer:block/potion_shelf",
+    "textures": {
+        "particle": "byg:block/skyris_planks",
+        "stripped_log": "byg:block/stripped_skyris_log"
+    }
+}

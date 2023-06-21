@@ -1,0 +1,9 @@
+{
+    "parent": "workshop_for_handsome_adventurer:block/framed_rack_full_top",
+    "textures": {
+        "particle": "byg:block/skyris_planks",
+        "plank": "byg:block/skyris_planks",
+        "thingy": "minecraft:block/white_terracotta",
+        "stripped_log": "byg:block/stripped_skyris_log"
+    }
+}

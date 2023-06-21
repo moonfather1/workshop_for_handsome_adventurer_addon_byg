@@ -1,0 +1,13 @@
+{
+    "variants":
+    {
+        "facing=north,half=upper": { "model": "workshop_for_handsome_adventurer_addon_byg:block/framed_rack_full_top_sythian" },
+        "facing=east,half=upper": { "model": "workshop_for_handsome_adventurer_addon_byg:block/framed_rack_full_top_sythian", "y": 90 },
+        "facing=south,half=upper": { "model": "workshop_for_handsome_adventurer_addon_byg:block/framed_rack_full_top_sythian", "y": 180 },
+        "facing=west,half=upper": { "model": "workshop_for_handsome_adventurer_addon_byg:block/framed_rack_full_top_sythian", "y": 270 },
+        "facing=north,half=lower": { "model": "workshop_for_handsome_adventurer_addon_byg:block/framed_rack_full_bottom_sythian" },
+        "facing=east,half=lower": { "model": "workshop_for_handsome_adventurer_addon_byg:block/framed_rack_full_bottom_sythian", "y": 90 },
+        "facing=south,half=lower": { "model": "workshop_for_handsome_adventurer_addon_byg:block/framed_rack_full_bottom_sythian", "y": 180 },
+        "facing=west,half=lower": { "model": "workshop_for_handsome_adventurer_addon_byg:block/framed_rack_full_bottom_sythian", "y": 270 }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "workshop_for_handsome_adventurer:block/dual_table_part_top_left2",
+    "textures": {
+        "particle": "byg:block/stripped_witch_hazel_log",
+        "oak_planks": "byg:block/witch_hazel_planks"
+    }
+}
