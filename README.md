@@ -1,5 +1,5 @@
 
-# Workshop for handsome adventurer - addon sample
+# Workshop for handsome adventurer - BYG addon
 
 So, you have a mod that adds new wood types to Minecraft. Obviously, you want to support an amazing mod that is [Workshop for handsome adventurer](https://modrinth.com/mod/workshop-for-handsome-adventurer). Good call.
 
