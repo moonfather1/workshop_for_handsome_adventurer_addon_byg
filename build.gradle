@@ -160,7 +160,7 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:jade-324717:3865918")
     runtimeOnly fg.deobf("curse.maven:jei-238222:4351311")
 
-    implementation fg.deobf("curse.maven:workshop-for-handsome-adventurer-875843:4591140")
+    implementation fg.deobf("curse.maven:workshop-for-handsome-adventurer-875843:4600672")
 }
 
 // Example for how to get properties into the manifest for reading at runtime.

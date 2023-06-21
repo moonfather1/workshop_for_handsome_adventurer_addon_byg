@@ -55,6 +55,7 @@ public class Registration {
             RegistryObject<Item> placer = ITEMS.register("workstation_placer_" + woodType, () -> new WorkstationPlacerItem(woodType));
             items_table2.add(placer);
             blocks_table2.add(primary);
+            moonfather.workshop_for_handsome_adventurer.initialization.Registration.registerHostMod(woodType, Constants.MODID);
         }
         // toolracks
         for (String woodType: Registration.woodTypes) {
