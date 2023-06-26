@@ -143,14 +143,14 @@
 	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_mahogany": "Tool Rack (mahogany, single)",
 	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_mahogany": "Potion Shelf (mahogany)",
 
-    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_mangrove": "Workstation (mangrove)",
+    	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_white_mangrove": "Workstation (white_mangrove)",
 
-	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_mangrove": "Crafting Table (mangrove)",
-	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_mangrove": "Tool Rack (mangrove, triple)",
-	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_mangrove": "Tool Rack (mangrove, framed)",
-	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_mangrove": "Tool Rack (mangrove, partly framed)",
-	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_mangrove": "Tool Rack (mangrove, single)",
-	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_mangrove": "Potion Shelf (mangrove)",
+	"block.workshop_for_handsome_adventurer_addon_byg.simple_table_white_mangrove": "Crafting Table (white_mangrove)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_double_white_mangrove": "Tool Rack (white_mangrove, triple)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_framed_white_mangrove": "Tool Rack (white_mangrove, framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_pframed_white_mangrove": "Tool Rack (white_mangrove, partly framed)",
+	"block.workshop_for_handsome_adventurer_addon_byg.tool_rack_single_white_mangrove": "Tool Rack (white_mangrove, single)",
+	"block.workshop_for_handsome_adventurer_addon_byg.potion_shelf_white_mangrove": "Potion Shelf (white_mangrove)",
 
     	"item.workshop_for_handsome_adventurer_addon_byg.workstation_placer_ebony": "Workstation (ebony)",
 

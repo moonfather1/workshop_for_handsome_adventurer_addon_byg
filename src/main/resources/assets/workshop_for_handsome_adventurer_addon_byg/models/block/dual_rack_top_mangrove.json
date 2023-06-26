@@ -1,8 +1,0 @@
-{
-    "parent": "workshop_for_handsome_adventurer:block/dual_rack_top",
-    "textures": {
-        "particle": "byg:block/mangrove_planks",
-        "plank": "byg:block/mangrove_planks",
-        "thingy": "minecraft:block/white_terracotta"
-    }
-}

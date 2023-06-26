@@ -20,6 +20,7 @@ public class ModWorkshopAddonBYG
     {
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::enqueueIMC);
         FMLJavaModLoadingContext.get().getModEventBus().addListener(this::commonSetup);
+        FMLJavaModLoadingContext.get().getModEventBus().addListener(CreativeTab::OnCreativeTabPopulation);
         Registration.init();
     }
 

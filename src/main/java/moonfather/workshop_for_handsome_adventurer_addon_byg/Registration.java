@@ -19,7 +19,7 @@ public class Registration {
     ////////////////////////////////////////////////////////////////////////////////////////
     public static final String[] woodTypes = { "aspen", "baobab", "cherry", "cika", "cypress",  //cherry can stay in 1.20 as far as i care
             "ebony", "ether", "fir", "holly",
-            "jacaranda", "lament", "mahogany", "mangrove", //last one only in 1.18
+            "jacaranda", "lament", "mahogany", "white_mangrove",
             "maple", "nightshade", "palm", "pine", "rainbow_eucalyptus",
             "redwood", "skyris", "willow", "witch_hazel", "zelkova", "sythian", "embur" };
     ///// you should only change the array above. rest is paste-it-and-leave it. //////////
@@ -88,7 +88,7 @@ public class Registration {
 
     private static RegistryObject<Item> FromBlock(RegistryObject<Block> block)
     {
-        Item.Properties properties = new Item.Properties().tab(CreativeTab.TAB_WORKSHOP);
+        Item.Properties properties = new Item.Properties();
         return ITEMS.register(block.getId().getPath(), () -> new BlockItemEx(block.get(), properties));
     }
 
