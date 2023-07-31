@@ -17,7 +17,7 @@ plugins {
 apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'org.spongepowered.mixin'
 
-version = '1.00'
+version = '1.05'
 group = 'moonfather.workshop_for_handsome_adventurer_addon_byg' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'workshop_for_handsome_adventurer_addon_byg'
 
@@ -160,7 +160,7 @@ dependencies {
     runtimeOnly fg.deobf("curse.maven:jade-324717:3865918")
     runtimeOnly fg.deobf("curse.maven:jei-238222:4351311")
 
-    implementation fg.deobf("curse.maven:workshop-for-handsome-adventurer-875843:4600672")
+	implementation fg.deobf("curse.maven:workshop-for-handsome-adventurer-875843:4670578")
 }
 
 // Example for how to get properties into the manifest for reading at runtime.
