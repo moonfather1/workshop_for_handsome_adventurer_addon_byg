@@ -3,7 +3,7 @@
     "textures": 
 	{
         "plank": "byg:block/sythian_planks",
-        "stripped_log": "byg:block/stripped_sythian_stem",
+        "stripped_log": "byg:block/stripped_sythian_log",
         "thingy": "minecraft:block/white_terracotta"
     }
 }

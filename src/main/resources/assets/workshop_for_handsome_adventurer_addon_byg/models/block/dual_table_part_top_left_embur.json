@@ -5,7 +5,7 @@
         "stripped_oak_log": "byg:block/stripped_embur_pedu",
         "oak_planks": "byg:block/embur_planks",
         "crafting_table_top": "minecraft:block/crafting_table_top",
-        "stripped_dark_oak_log": "minecraft:block/stripped_spruce_log",
+        "stripped_dark_oak_log": "minecraft:block/stripped_dark_oak_log",
         "anvil": "minecraft:block/anvil"
     }
 }

@@ -3,7 +3,7 @@
     "textures": 
 	{
         "plank": "byg:block/embur_planks",
-        "stripped_log": "byg:block/stripped_embur_pedu",
+        "stripped_log": "byg:block/stripped_embur_log",
         "thingy": "minecraft:block/white_terracotta"
     }
 }

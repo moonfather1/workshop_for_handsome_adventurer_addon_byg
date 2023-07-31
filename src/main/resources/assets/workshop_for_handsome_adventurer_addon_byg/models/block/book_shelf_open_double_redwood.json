@@ -1,0 +1,7 @@
+{
+	"parent": "workshop_for_handsome_adventurer:block/book_shelf_open_double_oak",
+	"textures": {
+		"plank": "byg:block/redwood_planks",
+		"particle": "byg:block/redwood_planks"
+	}
+}

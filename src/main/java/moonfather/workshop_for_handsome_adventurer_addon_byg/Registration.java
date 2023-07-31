@@ -31,14 +31,20 @@ public class Registration {
     public static final List<RegistryObject<Block>> blocks_table1 = new ArrayList<>();
     public static final List<RegistryObject<Block>> blocks_table2 = new ArrayList<>();
     public static final List<RegistryObject<Block>> blocks_rack = new ArrayList<>();
-    public static final List<RegistryObject<Block>> blocks_shelf = new ArrayList<>();
+    public static final List<RegistryObject<Block>> blocks_pshelf = new ArrayList<>();
+    public static final List<RegistryObject<Block>> blocks_bshelf = new ArrayList<>();
     public static final List<RegistryObject<Item>> items_table1 = new ArrayList<>();
     public static final List<RegistryObject<Item>> items_table2 = new ArrayList<>(); // because of sorting in creative tabs, we can't just dump into one list
     public static final List<RegistryObject<Item>> items_rack1 = new ArrayList<>();
     public static final List<RegistryObject<Item>> items_rack2 = new ArrayList<>();
     public static final List<RegistryObject<Item>> items_rack3 = new ArrayList<>();
-    public static final List<RegistryObject<Item>> items_rack4 = new ArrayList<>();
-    public static final List<RegistryObject<Item>> items_shelf = new ArrayList<>();
+    public static final List<RegistryObject<Item>> items_rack4 = new ArrayList<>();	
+    public static final List<RegistryObject<Item>> items_pshelf = new ArrayList<>();
+    public static final List<RegistryObject<Item>> items_bshelf1 = new ArrayList<>();
+    public static final List<RegistryObject<Item>> items_bshelf2 = new ArrayList<>();
+    public static final List<RegistryObject<Item>> items_bshelf3 = new ArrayList<>();
+    public static final List<RegistryObject<Item>> items_bshelf4 = new ArrayList<>();
+    public static final List<RegistryObject<Item>> items_bshelf5 = new ArrayList<>();
 
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -46,6 +52,7 @@ public class Registration {
     static {
         // small tables
         for (String woodType: Registration.woodTypes) {
+            moonfather.workshop_for_handsome_adventurer.initialization.Registration.registerHostMod(woodType, Constants.MODID);
             RegistryObject<Block> block = BLOCKS.register("simple_table_" + woodType, () -> new SimpleTable());
             blocks_table1.add(block);
             items_table1.add(FromBlock(block));
@@ -59,7 +66,6 @@ public class Registration {
             RegistryObject<Item> placer = ITEMS.register("workstation_placer_" + woodType, () -> new WorkstationPlacerItem(woodType));
             items_table2.add(placer);
             blocks_table2.add(primary);
-            moonfather.workshop_for_handsome_adventurer.initialization.Registration.registerHostMod(woodType, Constants.MODID);
         }
         // toolracks
         for (String woodType: Registration.woodTypes) {
@@ -80,8 +86,27 @@ public class Registration {
         // potion shelves
         for (String woodType: Registration.woodTypes) {
             RegistryObject<Block> shelf = BLOCKS.register("potion_shelf_" + woodType, () -> new PotionShelf());
-            items_shelf.add(FromBlock(shelf));
-            blocks_shelf.add(shelf);
+            items_pshelf.add(FromBlock(shelf));
+            blocks_pshelf.add(shelf);
+        }
+        // book shelves
+        for (String woodType: Registration.woodTypes) {
+            RegistryObject<Block> rack;
+            rack = BLOCKS.register("book_shelf_double_" + woodType, () -> new BookShelf.Dual("double"));
+            items_bshelf1.add(FromBlock(rack));
+            blocks_bshelf.add(rack);
+            rack = BLOCKS.register("book_shelf_open_double_" + woodType, () -> new BookShelf.Dual("open_double"));
+            items_bshelf2.add(FromBlock(rack));
+            blocks_bshelf.add(rack);
+            rack = BLOCKS.register("book_shelf_minimal_" + woodType, () -> new BookShelf.TopSimple("minimal"));
+            items_bshelf3.add(FromBlock(rack));
+            blocks_bshelf.add(rack);
+            rack = BLOCKS.register("book_shelf_open_minimal_" + woodType, () -> new BookShelf.TopSimple("open_minimal"));
+            items_bshelf4.add(FromBlock(rack));
+            blocks_bshelf.add(rack);
+            rack = BLOCKS.register("book_shelf_with_lanterns_" + woodType, () -> new BookShelf.TopWithLanterns("with_lanterns"));
+            items_bshelf5.add(FromBlock(rack));
+            blocks_bshelf.add(rack);
         }
     }
 

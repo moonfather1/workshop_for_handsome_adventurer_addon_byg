@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "",
+  "pattern": [
+    "b"
+  ],
+  "key": {
+    "b": {
+      "item": "workshop_for_handsome_adventurer_addon_byg:book_shelf_open_double_witch_hazel"
+    }
+  },
+  "result": {
+    "item": "workshop_for_handsome_adventurer_addon_byg:book_shelf_open_minimal_witch_hazel",
+    "count": 2
+  },
+  "conditions":  []
+}

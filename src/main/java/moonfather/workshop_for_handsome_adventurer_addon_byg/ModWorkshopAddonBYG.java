@@ -32,7 +32,7 @@ public class ModWorkshopAddonBYG
             TOOL_RACK_BE.get().validBlocks.add(block.get());
         }
         POTION_SHELF_BE.get().validBlocks = new HashSet<>(POTION_SHELF_BE.get().validBlocks);
-        for (RegistryObject<Block> block : Registration.blocks_shelf)
+        for (RegistryObject<Block> block : Registration.blocks_pshelf)
         {
             POTION_SHELF_BE.get().validBlocks.add(block.get());
         }
@@ -45,6 +45,11 @@ public class ModWorkshopAddonBYG
         for (RegistryObject<Block> block : Registration.blocks_table2)
         {
             DUAL_TABLE_BE.get().validBlocks.add(block.get());
+        }
+        BOOK_SHELF_BE.get().validBlocks = new HashSet<>(BOOK_SHELF_BE.get().validBlocks);
+        for (RegistryObject<Block> block : Registration.blocks_bshelf)
+        {
+            BOOK_SHELF_BE.get().validBlocks.add(block.get());
         }
     }
 

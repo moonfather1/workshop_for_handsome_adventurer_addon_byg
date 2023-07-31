@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "",
+  "pattern": [
+    "b",
+	"b"
+  ],
+  "key": {
+    "b": {
+      "item": "workshop_for_handsome_adventurer_addon_byg:book_shelf_open_minimal_skyris"
+    }
+  },
+  "result": {
+    "item": "workshop_for_handsome_adventurer_addon_byg:book_shelf_open_double_skyris",
+    "count": 1
+  },
+  "conditions":  []
+}
